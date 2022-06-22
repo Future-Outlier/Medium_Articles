@@ -10,5 +10,5 @@
 
 但並不局限於在Google發展
 ## 這段旅程中印象深刻的那些經歷
-1.[第一次參加google kickstart]([url](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday45-760e3d4ee197))
+1.[第一次參加google kickstart]((https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday45-760e3d4ee197)
 

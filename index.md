@@ -19,14 +19,23 @@
 
 [第一次跟程式競賽隊友拿冠軍](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday121-a348c6ac4005)
 
-[關於這段旅程學到的大道理](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday200-ba5bf3fd6252)
+[這段旅程讓我變成熟的大道理](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday200-ba5bf3fd6252)
 
 [與自己的約定](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day215-a43050bc1018)
 
-[用屬於自己的浪漫主義繼續前進](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
+[在閱讀後用屬於自己的浪漫主義繼續前進](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
 
-[]()
+[我生出的第一份履歷](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day271-a141b5fe5544)
 
-[]()
+[與隊友贏得ICPC銅牌](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day294-b124e464adec)
 
-[]()
+[大二爭取實習的生活日常Vlog](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day296-39925ae9bb02)
+
+[第一份實習_工研院Intern Vlog](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day363-fc0a18d9a906)
+
+[大二面試15家公司的面試心得分享](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday474-9a121e610cf6)
+
+[真正搞懂如何長肌肉的那天](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday482-46c818b28960)
+
+[看完複利效應後對自身的檢視](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday483-74ca970cbfd6)
+

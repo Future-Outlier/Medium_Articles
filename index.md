@@ -23,7 +23,7 @@
 
 [與自己的約定](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day215-a43050bc1018)
 
-[思考的整理學_讀書心得](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
+[用屬於自己的浪漫主義繼續前進](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
 
 []()
 

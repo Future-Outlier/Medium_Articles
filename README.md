@@ -1,5 +1,5 @@
 # 自我介紹
-你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天
+你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天，
 未來請多多指教！
 ## [那些年我寫下的Medium文章](https://slashie-person-and-googler.medium.com/)
 ## [那些年我拍攝的Youtube影片](www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)

@@ -33,7 +33,7 @@
 
 [大二爭取實習的生活日常Vlog](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day296-39925ae9bb02)
 
-[第一份實習_工研院Intern Vlog](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day363-fc0a18d9a906)
+[人生第一份實習 工研院Intern Vlog](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day363-fc0a18d9a906)
 
 [大二面試15家公司的面試心得分享](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday474-9a121e610cf6)
 

@@ -1,4 +1,4 @@
-# 那些年我寫下的Medium文章
+# [那些年我寫下的Medium文章](https://slashie-person-and-googler.medium.com/)
 # 往googler的路上
 [關於零基礎資工系挑戰4年後成為googler](https://slashie-person-and-googler.medium.com/%E9%9B%B6%E5%9F%BA%E7%A4%8E%E8%B3%87%E5%B7%A5%E7%B3%BB%E5%AD%B8%E7%94%9F%E5%9C%A8%E6%88%90%E7%82%BAgoogle%E5%B7%A5%E7%A8%8B%E5%B8%AB%E4%B9%8B%E8%B7%AF-af5d71300d82)
 ## 前言
@@ -9,6 +9,7 @@
 但並不局限於在Google發展
 
 ## 這段旅程中印象深刻的那些經歷
+
 [第一次參加google kickstart](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday45-760e3d4ee197)
 
 [人生第一支Vlog](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday78-faf65bd6f801)

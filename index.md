@@ -23,6 +23,8 @@
 
 [與自己的約定](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day215-a43050bc1018)
 
+[人生第一場StandUp脫口秀](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day244-2e4858082cbc)
+
 [在閱讀後用屬於自己的浪漫主義繼續前進](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
 
 [我生出的第一份履歷](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day271-a141b5fe5544)

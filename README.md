@@ -2,7 +2,7 @@
 你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天，
 未來請多多指教！
 ## [那些年我寫下的Medium文章](https://slashie-person-and-googler.medium.com/)
-## [那些年我拍攝的Youtube影片](www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
+## [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/76461262/174947667-e6f8e2e7-6508-4965-ac6e-cc9ff6496793.png" width="250">
   <img src="https://user-images.githubusercontent.com/76461262/174946417-ddb30a20-4772-4748-ab6f-f1e2b1d7637b.jpg" width="250">

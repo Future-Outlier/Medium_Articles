@@ -2,7 +2,7 @@
 你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天
 未來請多多指教！
 
-![2](https://user-images.githubusercontent.com/76461262/174945628-ab095a0d-978e-4c8f-a0b7-a08d0124242f.jpg =80%x)
+![](https://user-images.githubusercontent.com/76461262/174945628-ab095a0d-978e-4c8f-a0b7-a08d0124242f.jpg=80%x)
 
 
 

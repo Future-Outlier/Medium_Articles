@@ -15,3 +15,18 @@
 
 [人生第一支Vlog](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday78-faf65bd6f801)
 
+[努力100天後的體悟](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday100-9dd212dca228)
+
+[第一次跟程式競賽隊友拿冠軍](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday121-a348c6ac4005)
+
+[關於這段旅程學到的大道理](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday200-ba5bf3fd6252)
+
+[與自己的約定](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day215-a43050bc1018)
+
+[思考的整理學_讀書心得](https://slashie-person-and-googler.medium.com/the-journey-to-be-googler-day267-c8a787c086bc)
+
+[]()
+
+[]()
+
+[]()

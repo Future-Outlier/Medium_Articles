@@ -51,5 +51,5 @@
 
 [看完複利效應後對自身的檢視](https://slashie-person-and-googler.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday483-74ca970cbfd6)
 
-
+[SINICA Intern Week1 之強者同學帶給我的震撼與成長](https://slashie-person-and-googler.medium.com/sinica-week-1-%E4%B9%8B%E5%BC%B7%E8%80%85%E5%90%8C%E5%AD%B8%E5%B8%B6%E7%B5%A6%E6%88%91%E7%9A%84%E9%9C%87%E6%92%BC%E8%88%87%E6%88%90%E9%95%B7-a387a04c1c93)
 

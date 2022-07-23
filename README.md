@@ -57,5 +57,5 @@
 
 [SINICA Intern Week2 之原來沒有不可能](https://slashie-person-and-googler.medium.com/sinica-intern-week2-%E4%B9%8B%E5%8E%9F%E4%BE%86%E6%B2%92%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD-ca6f132f5252)
 
-[SINICA Intern Week3 之之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
+[SINICA Intern Week3 之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
 

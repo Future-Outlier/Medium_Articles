@@ -59,3 +59,4 @@
 
 [SINICA Intern Week3 之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
 
+[SINICA Intern Week4 之Work Life Balance](https://slashie-person-and-googler.medium.com/sinica-intern-week4%E4%B9%8Bwork-life-balance-fd76b1a88757)

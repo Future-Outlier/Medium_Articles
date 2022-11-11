@@ -1,6 +1,7 @@
 # 自我介紹
 你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天，
 未來請多多指教！
+## [Blog](https://hacker-davinci.github.io/blog/)
 ## [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
 ## [那些年我寫下的Medium文章](https://slashie-person-and-googler.medium.com/)
 ## [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)

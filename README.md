@@ -3,7 +3,7 @@
 未來請多多指教！
 ## [Blog](https://hacker-davinci.github.io/blog/)
 ## [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
-## [那些年我寫下的Medium文章](https://slashie-person-and-googler.medium.com/)
+## [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
 ## [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/76461262/174947667-e6f8e2e7-6508-4965-ac6e-cc9ff6496793.png" width="250">

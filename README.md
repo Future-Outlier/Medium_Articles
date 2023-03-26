@@ -1,14 +1,21 @@
 # 自我介紹
 你好，我叫做陳翰儒，人生目標是做自己有熱情的事情，並盡可能地以自己的意願去過我的每一天，
 未來請多多指教！
-## [Blog](https://hacker-davinci.github.io/blog/)
-## [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
-## [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
-## [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
+## 前言
+標題雖然是成為googler
+
+然而真正的意義是希望自己能夠在**大學畢業之初擁有Google軟體工程師的能力**
+
+但並不局限於在Google發展
+### [Blog](https://hacker-davinci.github.io/blog/)
+### [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
+### [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
+### [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/76461262/174947667-e6f8e2e7-6508-4965-ac6e-cc9ff6496793.png" width="250">
   <img src="https://user-images.githubusercontent.com/76461262/174946417-ddb30a20-4772-4748-ab6f-f1e2b1d7637b.jpg" width="250">
 </p>
+
 
 
 ## 往googler的路上
@@ -16,12 +23,6 @@
 
 [大三資工系學生之往googler的路上 EP1](https://youtu.be/MuF5Au3KXA8)
 
-## 前言
-標題雖然是成為googler
-
-然而真正的意義是希望自己能夠在**大學畢業之初擁有Google軟體工程師的能力**
-
-但並不局限於在Google發展
 
 ## 旅程中那些印象深刻的經歷
 
@@ -57,7 +58,7 @@
 
 [頂層高手競爭的心理博弈](https://future-outlier.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday715-e68b6591dfba)
 
-## 中央研究院 資訊科學所 Academia Sinica Intern 經歷
+## Intern 經歷
 
 [SINICA Intern Week1 之強者同學帶給我的震撼與成長](https://slashie-person-and-googler.medium.com/sinica-week-1-%E4%B9%8B%E5%BC%B7%E8%80%85%E5%90%8C%E5%AD%B8%E5%B8%B6%E7%B5%A6%E6%88%91%E7%9A%84%E9%9C%87%E6%92%BC%E8%88%87%E6%88%90%E9%95%B7-a387a04c1c93)
 
@@ -66,3 +67,6 @@
 [SINICA Intern Week3 之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
 
 [SINICA Intern Week4 之Work Life Balance](https://slashie-person-and-googler.medium.com/sinica-intern-week4%E4%B9%8Bwork-life-balance-fd76b1a88757)
+
+## 教學文章
+[C/C++ coding style 以及 clean code 教學 by Synology RD Intern](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)

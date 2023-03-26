@@ -23,6 +23,18 @@
 
 [大三資工系學生之往googler的路上 EP1](https://youtu.be/MuF5Au3KXA8)
 
+## 教學文章
+[C/C++ coding style 以及 clean code 教學 by Synology RD Intern](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)
+
+## Intern 經歷
+
+[SINICA Intern Week1 之強者同學帶給我的震撼與成長](https://slashie-person-and-googler.medium.com/sinica-week-1-%E4%B9%8B%E5%BC%B7%E8%80%85%E5%90%8C%E5%AD%B8%E5%B8%B6%E7%B5%A6%E6%88%91%E7%9A%84%E9%9C%87%E6%92%BC%E8%88%87%E6%88%90%E9%95%B7-a387a04c1c93)
+
+[SINICA Intern Week2 之原來沒有不可能](https://slashie-person-and-googler.medium.com/sinica-intern-week2-%E4%B9%8B%E5%8E%9F%E4%BE%86%E6%B2%92%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD-ca6f132f5252)
+
+[SINICA Intern Week3 之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
+
+[SINICA Intern Week4 之Work Life Balance](https://slashie-person-and-googler.medium.com/sinica-intern-week4%E4%B9%8Bwork-life-balance-fd76b1a88757)
 
 ## 旅程中那些印象深刻的經歷
 
@@ -58,15 +70,4 @@
 
 [頂層高手競爭的心理博弈](https://future-outlier.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday715-e68b6591dfba)
 
-## Intern 經歷
 
-[SINICA Intern Week1 之強者同學帶給我的震撼與成長](https://slashie-person-and-googler.medium.com/sinica-week-1-%E4%B9%8B%E5%BC%B7%E8%80%85%E5%90%8C%E5%AD%B8%E5%B8%B6%E7%B5%A6%E6%88%91%E7%9A%84%E9%9C%87%E6%92%BC%E8%88%87%E6%88%90%E9%95%B7-a387a04c1c93)
-
-[SINICA Intern Week2 之原來沒有不可能](https://slashie-person-and-googler.medium.com/sinica-intern-week2-%E4%B9%8B%E5%8E%9F%E4%BE%86%E6%B2%92%E6%9C%89%E4%B8%8D%E5%8F%AF%E8%83%BD-ca6f132f5252)
-
-[SINICA Intern Week3 之研究是責任制、人生也是](https://slashie-person-and-googler.medium.com/sinica-intern-week3-%E4%B9%8B%E7%A0%94%E7%A9%B6%E6%98%AF%E8%B2%AC%E4%BB%BB%E5%88%B6-%E4%BA%BA%E7%94%9F%E4%B9%9F%E6%98%AF-ed8a800c0bb7)
-
-[SINICA Intern Week4 之Work Life Balance](https://slashie-person-and-googler.medium.com/sinica-intern-week4%E4%B9%8Bwork-life-balance-fd76b1a88757)
-
-## 教學文章
-[C/C++ coding style 以及 clean code 教學 by Synology RD Intern](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)

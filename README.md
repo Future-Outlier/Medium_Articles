@@ -24,7 +24,7 @@
 [大三資工系學生之往googler的路上 EP1](https://youtu.be/MuF5Au3KXA8)
 
 ## 教學文章
-[C/C++ coding style 以及 clean code 教學](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)
+[C/C++ coding style 以及 clean code 教學 (基礎版)](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)
 
 ## Intern 經歷
 

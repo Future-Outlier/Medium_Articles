@@ -12,7 +12,6 @@
 ### [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
 ### [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/76461262/174947667-e6f8e2e7-6508-4965-ac6e-cc9ff6496793.png" width="250">
   <img src="https://user-images.githubusercontent.com/76461262/174946417-ddb30a20-4772-4748-ab6f-f1e2b1d7637b.jpg" width="250">
 </p>
 
@@ -23,6 +22,7 @@
 
 [大三資工系學生之往googler的路上 EP1](https://youtu.be/MuF5Au3KXA8)
 
+[自傳](https://medium.com/p/cf04fcded908)
 ## 教學文章
 [C/C++ coding style 以及 clean code 教學 (基礎版)](https://future-outlier.medium.com/c-c-coding-style-以及-clean-code-教學-by-synology-rd-intern-a169decef2d0)
 

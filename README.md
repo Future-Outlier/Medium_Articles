@@ -7,13 +7,14 @@
 然而真正的意義是希望自己能夠在**大學畢業之初擁有Google軟體工程師的能力**
 
 但並不局限於在Google發展
-### [Blog](https://hacker-davinci.github.io/blog/)
-### [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
-### [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
-### [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
-<p float="left">
+### [其他資訊](linktr.ee/future_outlier)
+<!-- ### [Blog](https://hacker-davinci.github.io/blog/) -->
+<!-- ### [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf) -->
+<!-- ### [那些年我寫下的Medium文章](https://future-outlier.medium.com/) -->
+<!-- ### [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ) -->
+<!-- <p float="left">
   <img src="https://user-images.githubusercontent.com/76461262/174946417-ddb30a20-4772-4748-ab6f-f1e2b1d7637b.jpg" width="250">
-</p>
+</p> -->
 
 
 

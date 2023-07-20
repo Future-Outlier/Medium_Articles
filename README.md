@@ -8,8 +8,8 @@
 
 但並不局限於在Google發展
 
-<!-- ### [Blog](https://hacker-davinci.github.io/blog/) -->
-### [My software engineer resume](https://hacker-davinci.github.io/CV/HANRU_CHEN_CV.pdf)
+<!-- ### [Blog](https://future-outlier.github.io/blog/) -->
+### [My software engineer resume](https://future-outlier.github.io/CV/HANRU_CHEN_CV.pdf)
 ### [那些年我寫下的Medium文章](https://future-outlier.medium.com/)
 ### [那些年我拍攝的Youtube影片](https://www.youtube.com/channel/UCOwyfb8QhvvXQpoQLJpmEKQ)
 ### [我的其他自媒體](https://linktr.ee/future_outlier)

@@ -72,3 +72,5 @@
 
 [頂層高手競爭的心理博弈](https://future-outlier.medium.com/%E5%BE%80googler%E7%9A%84%E8%B7%AF%E4%B8%8Aday715-e68b6591dfba)
 
+[100 reasons to stay alive](https://future-outlier.medium.com/%E5%BE%80outlier%E7%9A%84%E8%B7%AF%E4%B8%8Aday1192-5b18980053de)
+

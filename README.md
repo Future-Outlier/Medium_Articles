@@ -75,3 +75,5 @@
 [100 reasons to stay alive](https://future-outlier.medium.com/%E5%BE%80outlier%E7%9A%84%E8%B7%AF%E4%B8%8Aday1192-5b18980053de)
 
 [參加音樂節的感悟](https://medium.com/@future-outlier/往outlier的路上day1200-7b8ba1638d44)
+
+[決定每天都要超越昨天的自己那一天](https://future-outlier.medium.com/75d2bf552b38)

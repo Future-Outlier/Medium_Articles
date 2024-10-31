@@ -77,3 +77,5 @@
 [參加音樂節的感悟](https://medium.com/@future-outlier/往outlier的路上day1200-7b8ba1638d44)
 
 [決定每天都要超越昨天的自己那一天](https://future-outlier.medium.com/75d2bf552b38)
+
+[如果煩惱，就往上看](https://medium.com/@future-outlier/%E5%BE%80outlier%E7%9A%84%E8%B7%AF%E4%B8%8Aday1356-7099134b515a)
